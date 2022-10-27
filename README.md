@@ -25,3 +25,9 @@ SELECT * FROM retiring_titles
 
 We are selecting columns employee no and title from the Unique titles table and puttting it into the new table called "retiring_titles.
 From there we are grouping by title and ordering by count of title wanting it listed in descending order. Select from retiring_titles is us wanting to see the table. 
+
+
+![48C7F7DF-4C24-448D-8921-6817F2EAF534](https://user-images.githubusercontent.com/112785655/198412068-9cee08d8-0610-4ace-b7b3-e3d3f05488d9.jpeg)
+The good news is that there are also a high number of mentorship eligible employees. 
+We need to cease the opportunity to start the mentorship process early prior to losing experienced workers.
+The number is simply the number. Some of the mentorship eligible employees may not stay with the company which is another reason why it would be beneficial to start early. Starting early would ensure production stays up to standard and will likely encourage employees to stay considering they are looking at taking on more responsibilities and aquiring more presigiuous positions.
