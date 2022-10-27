@@ -12,4 +12,16 @@ The purpose of this project was to perform analysis on the employees. In this ca
 - There seems to be a large number of employees in the retirement range. We first need to consider funding for benefits packages and recruiting initiatoves. 
 
 - The employees that are in the retirement range appear to have high levels of experience so we need to take mentorship intitiatives seriosly so their replacements don't miss a beat. 
-.
+
+
+The code we used to determine retiring titles was 
+
+SELECT COUNT (ut.emp_no), ut.title
+INTO retiring_titles
+FROM Unique_titles as ut
+GROUP BY title
+ORDER BY COUNT(title) DESC;
+SELECT * FROM retiring_titles
+
+We are selecting columns employee no and title from the Unique titles table and puttting it into the new table called "retiring_titles.
+From there we are grouping by title and ordering by count of title. Select from retiring_titles is us wanting to see the table. 
