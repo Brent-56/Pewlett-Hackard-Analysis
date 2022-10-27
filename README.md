@@ -24,4 +24,4 @@ ORDER BY COUNT(title) DESC;
 SELECT * FROM retiring_titles
 
 We are selecting columns employee no and title from the Unique titles table and puttting it into the new table called "retiring_titles.
-From there we are grouping by title and ordering by count of title. Select from retiring_titles is us wanting to see the table. 
+From there we are grouping by title and ordering by count of title wanting it listed in descending order. Select from retiring_titles is us wanting to see the table. 
