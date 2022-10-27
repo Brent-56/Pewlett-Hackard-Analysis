@@ -12,3 +12,4 @@ The purpose of this project was to perform analysis on the employees. In this ca
 - There seems to be a large number of employees in the retirement range. We first need to consider funding for benefits packages and recruiting initiatoves. 
 
 - The employees that are in the retirement range appear to have high levels of experience so we need to take mentorship intitiatives seriosly so their replacements don't miss a beat. 
+.
