@@ -33,3 +33,6 @@ From there we are grouping by title and ordering by count of title wanting it li
 - We need to cease the opportunity to start the mentorship process early prior to losing experienced workers.
 
 - The number mentorship eligible employees is simply the number. Some of the mentorship eligible employees may not stay with the company which is another reason why it would be beneficial to start early. Starting early would ensure production stays up to standard and will likely encourage employees to stay considering they are looking at taking on more responsibilities and aquiring more presigiuous positions within the company.
+
+
+Considering we have a high number of employees that are eligible for retirement I think it's safe to say that the company should be looking at heavy recruiting and mentorship initiatives. It would be awful to wait until employees started retiring to start mentoring and recruiting. We want the experience and to stay within the company so the work and work culture continues to be up to standard. We can't simply rely on mentorhship eligibles as all of them probably wont agree to go with the program. This is key in why we should be looking at recruiting new and experienced employees from other companies in addition to mentoring the employees that are willing to be mentored. 
