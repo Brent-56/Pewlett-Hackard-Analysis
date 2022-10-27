@@ -5,10 +5,6 @@ The purpose of this project was to perform analysis on the employees. In this ca
 
 ### Results
 
-The first point I'd like to make is how we got retire eligible employees. As stated above this info is a great early step. It gives us a number of employees that could possibly retire and allows us to estimate how much recruiting we should be doing and how much we need for benefits packages. We used the count function to give us the number of eligible retirees
-
-![5049089E-4C42-4A3B-ADA6-79854081F1D7](https://user-images.githubusercontent.com/112785655/198405997-ba47b7fd-7b1c-41dd-bf05-58737b6d56b4.jpeg)
-
 
 The third point I'd like to make is that from the employees that retiring but they seem to be rather experienced. Losing such expertise has the potential to end poorly if we do not take appropriate action. We need to ensure we are looking to hire people with enough experience to maintain these soon to be vacant roles. 
 ![D059BC4F-5F70-4444-B4DA-80A1215EAD41](https://user-images.githubusercontent.com/112785655/198403401-db042f8f-d7e1-4e52-a962-a3df2993bbfb.jpeg)
