@@ -14,7 +14,7 @@ The purpose of this project was to perform analysis on the employees. In this ca
 - The employees that are in the retirement range appear to have high levels of experience so we need to take mentorship intitiatives seriosly so their replacements don't miss a beat. 
 
 
-The code we used to determine retiring titles was 
+The code we used to determine retiring titles was:
 
 * SELECT COUNT (ut.emp_no), ut.title
 INTO retiring_titles
