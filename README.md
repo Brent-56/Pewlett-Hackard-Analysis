@@ -16,7 +16,7 @@ The purpose of this project was to perform analysis on the employees. In this ca
 
 The code we used to determine retiring titles was 
 
-SELECT COUNT (ut.emp_no), ut.title
+* SELECT COUNT (ut.emp_no), ut.title
 INTO retiring_titles
 FROM Unique_titles as ut
 GROUP BY title
